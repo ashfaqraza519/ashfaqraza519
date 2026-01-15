@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ashfaqraza519
-- 👀 I’m interested in PHP.
-- 🌱 I’m currently learning PHP.
-- 💞️ I’m looking to collaborate on PHP projects.
-- 📫 You can reach me at www.ashfaqraza.com.
+- 👀 I’m interested in WordPress and Next.JS
+- 💞️ I’m looking to collaborate on WordPress and Next.JS projects
+- 📫 You can reach me at www.ashfaqraza.com
 
 <!---
 ashfaqraza519/ashfaqraza519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
